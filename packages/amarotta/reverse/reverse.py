@@ -1,6 +1,6 @@
 def reverse(args):
 
-  inp = args.get("input")
+  inp = args.get("input", "")
 
   out = "Please provide a string"
 
